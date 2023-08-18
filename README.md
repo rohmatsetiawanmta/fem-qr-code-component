@@ -21,8 +21,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live Site URL](https://codingmat.com/frontend-mentor/qr-code-component)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/qr-code-component-with-flexbox-and-responsive-for-mobile-iKFKdqdlSk)
+- Live Site URL: [Live Site URL](https://rohmatsetiawanmta.github.io/fem-qr-code-component)
+- Own Website URL: [Own Website URL](https://codingmat.com/frontend-mentor/qr-code-component)
 
 ## My process
 
